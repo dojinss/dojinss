@@ -81,7 +81,7 @@
 ---
 
 ## 📫 **Contact Me**
-- **Email**: bsy7021@naver.com  
+- **Email**: ehwls19@naver.com  
 - **Portfolio**:  
   - [Project 1](https://github.com/dojinss/MSA9_movie)  
   - [Project 2](https://github.com/dojinss/MSA9_freeorder)  
