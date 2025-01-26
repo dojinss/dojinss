@@ -83,9 +83,9 @@
 ## 📫 **Contact Me**
 - **Email**: bsy7021@naver.com  
 - **Portfolio**:  
-  - [Project 1](https://github.com/bsy7021/MSA9_Food)  
-  - [Project 2](https://github.com/bsy7021/MSA9_freeorder)  
-  - [Notion](https://www.notion.so/FullStack-Developer-17ad9378821280078b3ed030ddf2aa25)  
+  - [Project 1](https://github.com/dojinss/MSA9_movie)  
+  - [Project 2](https://github.com/dojinss/MSA9_freeorder)  
+  - [Notion](https://www.notion.so/PHP-REACT-SPRINGBOOT-17d6728e329c80549ed1f18018121437)  
 
 ---
 
